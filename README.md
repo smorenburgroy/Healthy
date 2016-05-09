@@ -1,2 +1,2 @@
 # Healthy
-Copyright by Roy Smorenburg
+Healthy is ontwikkeld door Roy Smorenburg © 2016
